@@ -1,10 +1,10 @@
 🚀🚀🚀
 
-### Hi there! I'm LeThanhPhuc - aka Pk <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
+### Hi there! I'm Le Thanh Phuc - aka Yang <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
-### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as a security researcher at YangYang.
+### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as an indie security researcher at YangYang.
 
-- 👨‍🎓 Master of Science (M.S.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
+- 👨‍🎓 Master of Science (M.SC.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
 - 🔭 Continue to research and propose security solutions to enhance security for applications.
 - 🌱 I am also learning more security certifications to improve my level.
 - 🥅 Goals: Contribute more to Open Source projects.
