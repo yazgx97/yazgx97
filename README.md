@@ -1,8 +1,8 @@
 🚀🚀🚀
 
-### Hi there! I'm Le Thanh Phuc - aka Yang <a href="https://noobpk.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
+### Hi there! I'm Le Thanh Phuc - aka Yang <a href="https://yazgx97.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
-### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as an indie security researcher at YangYang.
+### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as an Indie Security Researcher at YangYang.
 
 - 👨‍🎓 Master of Science (M.SC.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
 - 🔭 Continue to research and propose security solutions to enhance security for applications.
@@ -16,12 +16,12 @@
 
 *💬 Quick reply in telegram.*
 
-[<img align="left" alt="noobpk.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
-[<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
-[<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="noobpk | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="noobpk | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
+[<img align="left" alt="yazgx97.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
+[<img align="left" alt="yazgx97 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="yazgx97 | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
+[<img align="left" alt="yazgx97 | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="yazgx97 | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="yazgx97 | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
 
 <br />
 
@@ -29,19 +29,19 @@
 
 - Github Sponsor
   ```
-  https://github.com/sponsors/noobpk
+  https://github.com/sponsors/yazgx97
   ```
 - Paypal Address
   ```
-  https://paypal.me/noobpk
+  https://paypal.me/yazgx97
   ```
   
 <!-- ### Research platforms:
 
-[<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
-[<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
-[<img align="left" alt="noobpk | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr] -->
+[<img align="left" alt="yazgx97 | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
+[<img align="left" alt="yazgx97 | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
+[<img align="left" alt="yazgx97 | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/yazgx97/yazgx97.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
+[<img align="left" alt="yazgx97 | Huntr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" />][huntr] -->
 <br />
 
 ### 🏆 Licenses & Certifications:
@@ -97,25 +97,25 @@
 ---
 ### :zap: GitHub Stats
   
-![noobpk github stats](https://github-readme-stats.vercel.app/api?username=noobpk&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=noobpk&layout=compact&theme=dark)
+![yazgx97 github stats](https://github-readme-stats.vercel.app/api?username=yazgx97&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=yazgx97&layout=compact&theme=dark)
 
-![noobpk github trophy](https://github-profile-trophy.vercel.app/?username=noobpk&theme=onedark)
+![yazgx97 github trophy](https://github-profile-trophy.vercel.app/?username=yazgx97&theme=onedark)
 
 ---
-![](https://komarev.com/ghpvc/?username=Noobpk&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=yazgx97&color=red&style=for-the-badge)
 
-[website]: https://noobpk.github.io
+[website]: https://yazgx97.github.io
 [youtube]: https://www.youtube.com/channel/UCpd95cbpE3tkYkwjYA9JQCA
-[linkedin]: https://www.linkedin.com/in/lee-thanh-phuc/
-[gists]: https://gist.github.com/noobpk
-[gitlab]: https://gitlab.com/noobpk
-[medium]: https://medium.com/@lethanhphuc.pk
-[huntr]: https://huntr.dev/users/noobpk/
+[linkedin]: https://www.linkedin.com/in/lethxphuc
+[gists]: https://gist.github.com/yazgx97
+[gitlab]: https://gitlab.com/yazgx97
+[medium]: https://medium.com/@lethanhphuc-yang
+[huntr]: https://huntr.dev/users/yazgx97/
 [hackthebox]: https://www.hackthebox.eu/profile/375639
-[bugcrowd]: https://bugcrowd.com/noobpk
-[hackerone]: https://hackerone.com/noobpk
-[telegram]: https://t.me/Noobpk
+[bugcrowd]: https://bugcrowd.com/yazgx97
+[hackerone]: https://hackerone.com/yazgx97
+[telegram]: https://t.me/yazgx97
 [yangyang]: https://yangyang.printify.me
 [upwork]: https://www.upwork.com/freelancers/~01eab478e894418d0b?mp_source=share
 [organization]: https://github.com/YangYang-Research
