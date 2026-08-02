@@ -2,10 +2,10 @@
 
 ### Hi there! I'm Le Thanh Phuc - aka Yang <a href="https://yazgx97.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
-### I hold the position of Senior Officer Information Security at a prominent bank in VietNam, concurrently engaged as an Indie Security Researcher at YangYang.
+### I hold the position of Senior Officer Information Security in VietNam, concurrently engaged as an Indie Security Researcher at YangYang.
 
 - 👨‍🎓 Master of Science (M.SC.) in Information Security, Vietnam National University HCMC - University of Information Technology, 2025.
-- 🔭 Continue to research and propose security solutions to enhance security for applications.
+- 🔭 Research and propose innovative AI-based approaches to enhance application security.
 - 🌱 I am also learning more security certifications to improve my level.
 - 🥅 Goals: Contribute more to Open Source projects.
 - 🏰 Orgz: Join YangYang Organization on Github. [<img width="22px" alt="—Pngtree—white join now advertising join_3962482" src="https://github.com/user-attachments/assets/abc6f68b-68cf-42dc-889f-8a731ad4116f" />][organization]
@@ -97,10 +97,9 @@
 ---
 ### :zap: GitHub Stats
   
-![yazgx97 github stats](https://github-readme-stats.vercel.app/api?username=yazgx97&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=yazgx97&layout=compact&theme=dark)
-
-![yazgx97 github trophy](https://github-profile-trophy.vercel.app/?username=yazgx97&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yazgx97&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yazgx97&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yazgx97&layout=compact&theme=radical)
 
 ---
 ![](https://komarev.com/ghpvc/?username=yazgx97&color=red&style=for-the-badge)
